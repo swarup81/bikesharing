@@ -24,7 +24,6 @@ Our project aims to create a story to convince our investors that a bike-sharing
 * In this Visualization, male subscribers are the highest users, followed by female subscribers.
 
 <img width="917" alt="Screen Shot 2022-06-07 at 2 11 36 PM" src="https://user-images.githubusercontent.com/100738688/172453206-b6e74bef-7beb-41e2-b33f-95b5f6d12e54.png">
-
 * In this Visualization, most of the riders' checkout time is less than an hour; this pattern follows regardless of age.
 
 <img width="837" alt="Screen Shot 2022-06-07 at 2 07 36 PM" src="https://user-images.githubusercontent.com/100738688/172452582-3a8a2d5c-3d3a-4360-ae32-8448a81f5f0e.png">
