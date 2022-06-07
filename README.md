@@ -2,9 +2,9 @@
 
 # Overview of the analysis
 
-## purpose:
+## Purpose:
 
-Our project aims to create a story to convince our investors that a bike-sharing program in Des Moines is a solid business proposal. We have created a set of visualizations to show the length of time bikes are checked out and the number of bike trips for all riders and genders for each hour of each day of the week. And also show the number of bike trips for each type of user and gender for each day of the week.
+Our project aims to create a story to convince our investors that a bike-sharing program in Des Moines is a solid business proposal. We have created a set of visualizations to show the length of time that bikes are checked out and the number of bike trips for all riders and genders for each hour of each day of the week. And also show the number of bike trips for each type of user and gender for each day of the week.
 
 
 [link to dashboard](https://public.tableau.com/app/profile/swarup.dinesh/viz/Finalpresentation_16545767958210/FinalPresentation?publish=yes)
