@@ -38,5 +38,5 @@ This analysis has given a broader perspective of the utilization of bicycles in 
 
 
 1. Another visualization would be to determine the bikes due for repair. The bikes used frequently will be in the urge of maintenance, so we can plan for maintenance by selecting the highest number of rides.
-2. for this project, we have analyzed only august data; I would like to perform an analysis on other months so that we will have a big picture of how the bike sharing business is doing year along.
+2. for this project, we have analyzed only august data; I would like to perform an analysis on other months so that we will have a big picture of how the bike sharing business is doing year along
 
