@@ -8,7 +8,6 @@ Our project aims to create a story to convince our investors that a bike-sharing
 
 [link to dashboard](https://public.tableau.com/app/profile/swarup.dinesh/viz/Finalpresentation_16545767958210/FinalPresentation?publish=yes)
 
-<img width="837" alt="Screen Shot 2022-06-07 at 2 07 36 PM" src="https://user-images.githubusercontent.com/100738688/172452582-3a8a2d5c-3d3a-4360-ae32-8448a81f5f0e.png">
 
 # Results:
 
@@ -38,5 +37,5 @@ This analysis has given a broader perspective of the utilization of bicycles in 
 
 
 1. Another visualization would be to determine the bikes due for repair. The bikes used frequently will be in the urge of maintenance, so we can plan for maintenance by selecting the highest number of rides.
-2. for this project, we have analyzed only august data; I would like to perform an analysis on other months so that we will have a big picture of how the bike sharing business is doing year along
+2. for this project, we have analyzed only august data; I would like to perform an analysis on other months so that we will have a big picture of how the bike sharing business is doing year along.
 
