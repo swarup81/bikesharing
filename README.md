@@ -1,12 +1,14 @@
 # bikesharing
 
-[link to dashboard](https://public.tableau.com/app/profile/swarup.dinesh/viz/Finalpresentation_16545767958210/FinalPresentation?publish=yes)
-
-<img width="837" alt="Screen Shot 2022-06-07 at 2 07 36 PM" src="https://user-images.githubusercontent.com/100738688/172452582-3a8a2d5c-3d3a-4360-ae32-8448a81f5f0e.png">
 # Overview of analysis
 ## purpose:
 
 Our project aims to create a story to convince our investors that a bike-sharing program in Des Moines is a solid business proposal. We have created a set of visualizations to show the length of time bikes are checked out and the number of bike trips for all riders and genders for each hour of each day of the week. And also show the number of bike trips for each type of user and gender for each day of the week.
+
+
+[link to dashboard](https://public.tableau.com/app/profile/swarup.dinesh/viz/Finalpresentation_16545767958210/FinalPresentation?publish=yes)
+
+<img width="837" alt="Screen Shot 2022-06-07 at 2 07 36 PM" src="https://user-images.githubusercontent.com/100738688/172452582-3a8a2d5c-3d3a-4360-ae32-8448a81f5f0e.png">
 
 # Results:
 
